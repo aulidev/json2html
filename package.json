@@ -1,6 +1,6 @@
 {
   "name": "@aulidev/json2html",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Convert HTML to JSON",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
